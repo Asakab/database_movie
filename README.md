@@ -1,25 +1,37 @@
-# README
+# Movie Database
+Ce projet servira de révisions douces et de bonne introduction au projet de CRUD plus tard. Nous allons te demander de créer une application qui affiche une liste de films en guise de page d'accueil. Puis, comme la production est très importante, nous allons te demander de mettre le projet en production, sur Heroku. : https://enigmatic-mountain-44406.herokuapp.com/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Les étapes. 
+ 
 
-Things you may want to cover:
+* Création d'une app et mise en production
 
-* Ruby version
+* Création du model Movie
 
-* System dependencies
+* Le Seed
 
-* Configuration
+* L'Index
 
-* Database creation
+* Mise en production sur Heroku
 
-* Database initialization
+* Ajout d'un modèle et d'associations 
 
-* How to run the test suite
+### Installation
 
-* Services (job queues, cache servers, search engines, etc.)
+Ouvrir le dossier via le terminal:
 
-* Deployment instructions
+```
+bundle install --without production
+```
 
-* ...
-# database_movie
+
+
+
+
+
+## Contributeurs:
+
+
+* @Abdel : http://github/com/Aitbali
+
+* @Asak : http://github/com/Asakab
